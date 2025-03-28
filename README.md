@@ -1,3 +1,4 @@
+(WIP) Work In Progress 
 ## Setup Database
 Sign up for MongoDB free database cluster:  [MongoDB](https://www.mongodb.com/)
 
